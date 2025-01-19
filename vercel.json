@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/old-url",
+        "destination": "/new-url"
+      }
+    ]
+  }
+  
