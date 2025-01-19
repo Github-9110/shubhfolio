@@ -16,7 +16,7 @@ export default function Aboutsection() {
 
         <div className="row">
           <div className="col-lg-4" data-aos="fade-right">
-            <img src="/src/assets/img/shubh_img.jpg" className="img-fluid" alt="" />
+            <img src="/assets/img/shubh_img.jpg" className="img-fluid" alt="" />
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Web Developer.</h3>

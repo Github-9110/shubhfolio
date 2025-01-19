@@ -8,7 +8,7 @@ export default function Navbar(props) {
     <div className="d-flex flex-column">
 
       <div className="profile">
-        <img src="/src/assets/img/shubh_img.jpg" alt="" className="img-fluid rounded-circle" />
+        <img src="/assets/img/shubh_img.jpg" alt="" className="img-fluid rounded-circle" />
         <h1 className="text-light"><a href="/">Shubham Developer</a></h1>
         <div className="social-links mt-3 text-center">
           <a href="/" className="twitter d-none"><i className="bx bxl-twitter"></i></a>
