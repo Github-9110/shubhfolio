@@ -93,11 +93,12 @@ export default function Resumesection() {
               </ul> */}
             </div>
           </div>
+          <div className="resumea-item" style={{marginLeft:"10px"}}>
+         <h4>Declaration</h4>
+          <p><em>I hereby declare that the above information is correct to the best Of knowledge.</em></p>
+         </div>
         </div>
-        <div className="resumea-item">
-      <h4>Declaration</h4>
-      <p><em>I hereby declare that the above information is correct to the best Of knowledge.</em></p>
-      </div>
+        
       </div>
       
     </section>
