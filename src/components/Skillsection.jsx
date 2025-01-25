@@ -10,7 +10,7 @@ export default function Skillsection() {
         <div className="section-title">
           <h2>Skills</h2>
           <p><em>Hello, Shubham is here, I am software Developer. I am 1+ years experience in Web Development Field.
-          I have skilled with <strong>PHP Language, Codeigniter 4, Laravel Framework, Ajax, JQuery, Bootstrap and Mysql Database, Ubuntu OS, Window XP Professional,Windows7& Windows 10. etc.</strong>
+          I have skilled with <strong>PHP Language, Codeigniter 4, Ajax, JQuery, Bootstrap and Mysql Database, Ubuntu OS, Windows 10. etc.</strong>
           </em></p> 
         </div>
 

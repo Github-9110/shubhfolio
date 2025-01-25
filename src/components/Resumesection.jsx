@@ -37,7 +37,7 @@ export default function Resumesection() {
               <p><em>Maharaja Agrasen Himalayan Garhwal University (MAHGU), Uttarakhand</em></p>
               <p>I Qualified Master of Computer Application from Maharaja Agrasen Himalayan Garhwal University, Government of Uttarakhand Act No. 33 of 2016.</p>
             </div>
-            <h3 className="resume-title">Education</h3>
+           
             <div className="resume-item">
               <h4>Bacheloper Of Computer Application</h4>
               <h5>2018 - 2021</h5>
