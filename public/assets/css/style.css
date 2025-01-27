@@ -230,9 +230,10 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/shubh_img7.jpg") right center;
+  background: url("../img/shubh_img6.jpeg") top center;
   background-size: cover;
-  /* background: url("../img/shubh_img7.jpeg") top center; */
+    /* background: url("../img/shubh_img7.jpg") right center; */
+
 }
 
 #hero:before {
