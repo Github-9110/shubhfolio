@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/old-url",
-        "destination": "/new-url"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
