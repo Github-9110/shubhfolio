@@ -9,6 +9,7 @@ export default function Herosection() {
     // Array of dynamic colors matching each word position
     const colors = ["#149ddd", "#e91e63", "#28a745", "#ffc107", "#a04ef6"];
 
+    
     const options = {
       strings: typedItems.split(', '), 
       typeSpeed: 50,  
