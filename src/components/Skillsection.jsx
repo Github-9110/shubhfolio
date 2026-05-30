@@ -88,7 +88,7 @@ export default function Skillsection() {
               </div>
             </div>
           </div>
-         
+                 
         </div>
 
       </div>
