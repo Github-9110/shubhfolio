@@ -1,19 +1,8 @@
 {
-<<<<<<< HEAD
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/"
     }
   ]
 }
-=======
-    "rewrites": [
-      {
-        "source": "/old-url",
-        "destination": "/new-url"
-      }
-    ]
-  }
-  
->>>>>>> 0cdf851 (fix issues site not working)
