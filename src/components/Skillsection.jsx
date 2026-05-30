@@ -15,6 +15,43 @@ export default function Skillsection() {
         </div>
 
         <div className="row skills-content">
+          
+           <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+              <div className="progress">
+              <span className="skill">Power BI <i className="val">45%</i></span>
+              <div className="progress-bar-wrap">
+                <div className="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div className="progress">
+              <span className="skill">Mysql <i className="val">55%</i></span>
+              <div className="progress-bar-wrap">
+                <div className="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+             <div className="progress">
+              <span className="skill">Python (Pandas, NumPy) <i className="val">55%</i></span>
+              <div className="progress-bar-wrap">
+                <div className="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            
+            <div className="progress">
+              <span className="skill">PHP <i className="val">80%</i></span>
+              <div className="progress-bar-wrap">
+                <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div className="progress">
+              <span className="skill">Codeigniter <i className="val">75%</i></span>
+              <div className="progress-bar-wrap">
+                <div className="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          
+
+          </div>
 
           <div className="col-lg-6" data-aos="fade-up">
 
@@ -52,36 +89,7 @@ export default function Skillsection() {
             </div>
           </div>
 
-          <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-
-            <div className="progress">
-              <span className="skill">PHP <i className="val">80%</i></span>
-              <div className="progress-bar-wrap">
-                <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div className="progress">
-              <span className="skill">Codeigniter <i className="val">75%</i></span>
-              <div className="progress-bar-wrap">
-                <div className="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div className="progress">
-              <span className="skill">Laravel <i className="val">45%</i></span>
-              <div className="progress-bar-wrap">
-                <div className="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div className="progress">
-              <span className="skill">Mysql <i className="val">55%</i></span>
-              <div className="progress-bar-wrap">
-                <div className="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
+         
         </div>
 
       </div>

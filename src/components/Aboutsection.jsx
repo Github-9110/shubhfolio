@@ -17,7 +17,7 @@ export default function Aboutsection() {
 
         <div className="row">
           <div className="col-lg-4" data-aos="fade-right">
-            <img src="/assets/img/shubh_img.jpg" className="img-fluid" alt="" />
+            <img src="/assets/img/shubh_photo.jpg" className="img-fluid" alt="" />
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Web Developer.</h3>
@@ -31,7 +31,8 @@ export default function Aboutsection() {
                 <ul>
                   {/* <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>10 July 1999</span></li> */}
                   <li><i className="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Shubham Kumar</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91 7084 319 110</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Marital Status:</strong> <span>Unmarried</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Nationality:</strong> <span>Indian</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Varanasi, UP India</span></li>
                 </ul>
               </div>
@@ -40,6 +41,7 @@ export default function Aboutsection() {
                   {/* <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li> */}
                   <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master Of Computer Application</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>shubhamjyotiii1999@gmail.com</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91 7084 319 110</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Hobbies:</strong> <span>Study</span></li>
                 </ul>
               </div>
